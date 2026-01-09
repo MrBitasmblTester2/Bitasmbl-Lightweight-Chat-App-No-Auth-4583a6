@@ -1,0 +1,7 @@
+{
+  "name": "lightweight-chat-app",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "cd frontend && vite"
+  }
+}
